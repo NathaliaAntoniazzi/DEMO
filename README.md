@@ -8,7 +8,7 @@ Repositório criado para armazenar resumos e materiais do curso Versionamento de
 - [Documentação GitHub](https://docs.github.com/pt)
 - [GitHub MarkDown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-# Principais Comandos do GitHub
+## Principais Comandos do GitHub
 
 | Comando         | Descrição |
 |----------------|-----------|
